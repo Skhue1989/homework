@@ -49,7 +49,7 @@ class BinaryFileHandler(FileHandler):
 if __name__ == "__main__":
     # Handle a text file
     text_handler = TextFileHandler('example.txt')
-    text_handler.write('Hello, World!')
+    text_handler.write('Welcome to the world of JOY')
     print(text_handler.read())
 
     # Handle a binary file
