@@ -90,4 +90,4 @@ print(text_handler.read())
 binary_handler = BinaryFileHandler("my_binary_file.bin")
 binary_data = b'\x00\x01\x02\x03'  # Example binary data
 binary_handler.write(binary_data)
- print(binary_handler.read())
+print(binary_handler.read())
