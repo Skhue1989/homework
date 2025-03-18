@@ -1,2 +1,0 @@
-class Dog:
-    species = "Can
